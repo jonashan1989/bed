@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+displayed_sidebar: tutorialSidebar2
 ---
 
 # 그룹 관리
