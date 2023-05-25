@@ -1,0 +1,8 @@
+{
+  "label": "주제 할당, 주제 관리",
+  "position": 20,
+  "link": {
+    "type": "generated-index",
+    "description": "5 minutes to learn the most important Docusaurus concepts."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "커리큘럼 관리",
+  "position": 24,
+  "link": {
+    "type": "generated-index",
+    "description": "5 minutes to learn the most important Docusaurus concepts."
+  }
+}
